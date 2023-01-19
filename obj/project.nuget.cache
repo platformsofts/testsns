@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7bV5LTMNQ80TXrq9zWzu8qjDVcG3ZK3YLmQoaYzcRwI4Ozl0BrgCl9muOCxG/BrhS17bXTar9LDH6COPp/Meg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Osvaldo Mateus\\3D Objects\\Projeto\\Csharp\\Meus\\testsns\\testteee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Osvaldo Mateus\\.nuget\\packages\\awssdk.core\\3.7.103.18\\awssdk.core.3.7.103.18.nupkg.sha512",
+    "C:\\Users\\Osvaldo Mateus\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.100.57\\awssdk.simplenotificationservice.3.7.100.57.nupkg.sha512",
+    "C:\\Users\\Osvaldo Mateus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Osvaldo Mateus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Osvaldo Mateus\\.nuget\\packages\\restsharp\\109.0.0-preview.1\\restsharp.109.0.0-preview.1.nupkg.sha512",
+    "C:\\Users\\Osvaldo Mateus\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Osvaldo Mateus\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Osvaldo Mateus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Osvaldo Mateus\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

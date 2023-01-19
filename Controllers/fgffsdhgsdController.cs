@@ -21,6 +21,8 @@ public class fgffsdhgsdController : ControllerBase
     {
         try
         {
+            Console.WriteLine("Chegei--------------");
+            Console.WriteLine("Chegei-------------");
             // var jsonData = "";
             // Stream req = Request.;
             // req.Seek(0, System.IO.SeekOrigin.Begin);
