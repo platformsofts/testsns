@@ -27,6 +27,7 @@ public class fgffsdhgsdController : ControllerBase
         try
         {
             var jsonData = "";
+            _logger.LogInformation("Cheguei");
             Stream req = Request.Body;
             req.Seek(0, System.IO.SeekOrigin.Begin);
             String json = new StreamReader(req).ReadToEnd();
