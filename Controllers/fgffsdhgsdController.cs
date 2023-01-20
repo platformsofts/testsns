@@ -22,7 +22,6 @@ public class fgffsdhgsdController : ControllerBase
     }
 
     [HttpPost("testeeddf")]
-    [HttpPost]
     public String SNSSubscriptionPost(String id = "")
     {
         try
